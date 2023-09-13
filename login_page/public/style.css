@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Borel&family=Caveat:wght@400;500;600&family=Edu+SA+Beginner:wght@600&family=Open+Sans&family=PT+Serif:ital,wght@0,400;0,700;1,400&family=Roboto:wght@100;400;700&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image: url("/assets/backgroundphoto.avif");
+
+  background-repeat: no-repeat;
+}
+h2{
+color: white;
+}
+.center-div {
+  padding-top: 10%;
+}
+.btn.btn-warning {
+  padding: 0.4em 2em;
+}
+form {
+  padding: 0 3em;
+}
+#login.title > span {
+  font-size: 0.8em;
+}
